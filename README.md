@@ -1,6 +1,8 @@
-# Herafy App 🛠️ – ITI Graduation Project
+# Herafy 
 
-Herafy is a fullstack web platform that connects **craftsmen** with **clients** through service listings, profile management, and real-time messaging.
+Herafy is A fullstack web application that connects craftsmen with clients through service listings, advanced search, and 
+real-time messaging. Built with the MEARN stack, implementing secure authentication, CRUD operations, and 
+role-based access for craftsmen and customers.
 
 
 ---
